@@ -1,0 +1,13 @@
+D:\Programozas\Projects\RallyChampions\RallyChampions\bin\Debug\RallyChampions.exe.config
+D:\Programozas\Projects\RallyChampions\RallyChampions\bin\Debug\RallyChampions.exe
+D:\Programozas\Projects\RallyChampions\RallyChampions\obj\Debug\RallyChampions.csproj.AssemblyReference.cache
+D:\Programozas\Projects\RallyChampions\RallyChampions\obj\Debug\RallyChampions.Add_driver.resources
+D:\Programozas\Projects\RallyChampions\RallyChampions\obj\Debug\RallyChampions.Form1.resources
+D:\Programozas\Projects\RallyChampions\RallyChampions\obj\Debug\RallyChampions.Mdi_user.resources
+D:\Programozas\Projects\RallyChampions\RallyChampions\obj\Debug\RallyChampions.Properties.Resources.resources
+D:\Programozas\Projects\RallyChampions\RallyChampions\obj\Debug\RallyChampions.View_drivers.resources
+D:\Programozas\Projects\RallyChampions\RallyChampions\obj\Debug\RallyChampions.csproj.GenerateResource.cache
+D:\Programozas\Projects\RallyChampions\RallyChampions\obj\Debug\RallyChampions.csproj.CoreCompileInputs.cache
+D:\Programozas\Projects\RallyChampions\RallyChampions\obj\Debug\RallyChampions.exe
+D:\Programozas\Projects\RallyChampions\RallyChampions\obj\Debug\RallyChampions.pdb
+D:\Programozas\Projects\RallyChampions\RallyChampions\bin\Debug\RallyChampions.pdb
